@@ -27,3 +27,20 @@ To Run it locally follow the steps:
 ##### Source code - backend folder of this repo
 
 
+## Screenshots
+
+#### Create a meme
+![Create MEme](https://github.com/satyamgits/xenon-stack-task/blob/master/screenshots/Screenshot%20(12).png "Create Meme")
+
+#### View Memes
+![Create MEme](https://github.com/satyamgits/xenon-stack-task/blob/master/screenshots/Screenshot%20(13).png "Create Meme")
+
+#### Contact Us
+![Create MEme](https://github.com/satyamgits/xenon-stack-task/blob/master/screenshots/Screenshot%20(14).png "Create Meme")
+
+#### Login Page
+![Create MEme](https://github.com/satyamgits/xenon-stack-task/blob/master/screenshots/Screenshot%20(15).png "Create Meme")
+
+#### Sign up Page
+![Create MEme](https://github.com/satyamgits/xenon-stack-task/blob/master/screenshots/Screenshot%20(16).png "Create Meme")
+
