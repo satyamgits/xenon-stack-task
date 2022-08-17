@@ -1,1 +1,1 @@
-export const server_url = 'http://localhost:8081/api/v1'
+export const server_url = 'https://meme-backend-service.herokuapp.com/api/v1'
